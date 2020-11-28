@@ -5,7 +5,7 @@ repo: decilo_upttime
 # Add your sites here
 sites:
   - name: Decilo
-    url: $UPTIME_TESTER
+    url: $SECRET_SITE
 
 status-website:
   cname: status.decilo.ar

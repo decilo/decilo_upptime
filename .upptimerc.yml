@@ -4,19 +4,10 @@ repo: decilo_upttime
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Decilo
+    url: $UPTIME_TESTER
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.decilo.ar
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime

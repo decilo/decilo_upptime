@@ -16,7 +16,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 | URL    | Status | History                                                                                  | Response Time                                                               | Uptime                                                                                                                                                                                                   |
 | ------ | ------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Decilo | 🟩 Up  | [decilo.yml](https://github.com/decilo/decilo_upptime/commits/master/history/decilo.yml) | <img alt="Response time graph" src="./graphs/decilo.png" height="20"> 383ms | [![Uptime 99.84%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdecilo%2Fdecilo_upptime%2Fmaster%2Fapi%2Fdecilo%2Fuptime.json)](https://status.decilo.ar/history/decilo) |
+| Decilo | 🟩 Up  | [decilo.yml](https://github.com/decilo/decilo_upptime/commits/master/history/decilo.yml) | <img alt="Response time graph" src="./graphs/decilo.png" height="20"> 394ms | [![Uptime 99.90%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdecilo%2Fdecilo_upptime%2Fmaster%2Fapi%2Fdecilo%2Fuptime.json)](https://status.decilo.ar/history/decilo) |
 
 <!--end: status pages-->
 

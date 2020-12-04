@@ -3,16 +3,16 @@
     "name": "Decilo",
     "url": "$SECRET_SITE",
     "slug": "decilo",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
-    "time": 2757,
-    "timeDay": 3928,
-    "timeWeek": 2757,
-    "timeMonth": 2757,
-    "timeYear": 2757
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 2616,
+    "timeDay": 2785,
+    "timeWeek": 2616,
+    "timeMonth": 2616,
+    "timeYear": 2616
   }
 ]

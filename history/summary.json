@@ -4,15 +4,15 @@
     "url": "$SECRET_SITE",
     "slug": "decilo",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.57%",
     "uptimeDay": "99.45%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 2616,
-    "timeDay": 2785,
-    "timeWeek": 2616,
-    "timeMonth": 2616,
-    "timeYear": 2616
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 2490,
+    "timeDay": 2776,
+    "timeWeek": 3869,
+    "timeMonth": 2490,
+    "timeYear": 2490
   }
 ]

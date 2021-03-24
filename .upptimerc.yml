@@ -8,7 +8,7 @@ sites:
     url: $SECRET_SITE
 
 status-website:
-  cname: status.decilo.ar
+  cname: status.decilo.app
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -19,7 +19,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Site
-      href: https://decilo.ar
+      href: https://decilo.app
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
